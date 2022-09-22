@@ -1,0 +1,935 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-09-21T19:54:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2955085",
+        "building": "yes",
+        "name": "Museo de Arte Colonial",
+        "tourism": "museum",
+        "type": "multipolygon",
+        "wikidata": "Q3329577",
+        "wikipedia": "es:Museo de Arte Colonial de Bogotá"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.0753528,
+              4.5964065
+            ],
+            [
+              -74.0754272,
+              4.5962823
+            ],
+            [
+              -74.0753427,
+              4.596232
+            ],
+            [
+              -74.0750051,
+              4.5967957
+            ],
+            [
+              -74.075267,
+              4.5969516
+            ],
+            [
+              -74.0753132,
+              4.5968745
+            ],
+            [
+              -74.0755938,
+              4.5964059
+            ],
+            [
+              -74.0755161,
+              4.5963597
+            ],
+            [
+              -74.0754525,
+              4.5964659
+            ],
+            [
+              -74.0753528,
+              4.5964065
+            ]
+          ],
+          [
+            [
+              -74.0752895,
+              4.5965242
+            ],
+            [
+              -74.0754051,
+              4.5965885
+            ],
+            [
+              -74.0753142,
+              4.5967509
+            ],
+            [
+              -74.0751986,
+              4.5966866
+            ],
+            [
+              -74.0752895,
+              4.5965242
+            ]
+          ]
+        ]
+      },
+      "id": "relation/2955085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/9443540",
+        "building": "yes",
+        "name": "Museo de Artes y Tradiciones Populares",
+        "roof:material": "roof_tiles",
+        "roof:shape": "gabled",
+        "tourism": "museum",
+        "type": "multipolygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.0788399,
+              4.595179
+            ],
+            [
+              -74.0784835,
+              4.5949774
+            ],
+            [
+              -74.0782575,
+              4.5953746
+            ],
+            [
+              -74.0783851,
+              4.5954467
+            ],
+            [
+              -74.0784118,
+              4.5953998
+            ],
+            [
+              -74.0786406,
+              4.5955292
+            ],
+            [
+              -74.0788399,
+              4.595179
+            ]
+          ],
+          [
+            [
+              -74.078594,
+              4.5953827
+            ],
+            [
+              -74.0784381,
+              4.5952966
+            ],
+            [
+              -74.0785254,
+              4.5951395
+            ],
+            [
+              -74.0786813,
+              4.5952256
+            ],
+            [
+              -74.078594,
+              4.5953827
+            ]
+          ]
+        ]
+      },
+      "id": "relation/9443540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/9452217",
+        "addr:housenumber": "#4-41",
+        "addr:street": "Calle 11",
+        "building": "yes",
+        "fee": "no",
+        "name": "Museo Botero",
+        "opening_hours": "Mo, We-Sa 09:00-19:00; Su 10:00-17:00",
+        "roof:material": "roof_tiles",
+        "roof:shape": "hipped",
+        "tourism": "museum",
+        "type": "multipolygon",
+        "website": "https://www.banrepcultural.org/museo-botero/",
+        "wikidata": "Q3329100"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.0732188,
+              4.5968778
+            ],
+            [
+              -74.0732864,
+              4.5967694
+            ],
+            [
+              -74.0733455,
+              4.5966745
+            ],
+            [
+              -74.0733683,
+              4.5966886
+            ],
+            [
+              -74.0734349,
+              4.5965818
+            ],
+            [
+              -74.073135,
+              4.5963961
+            ],
+            [
+              -74.0730758,
+              4.5964911
+            ],
+            [
+              -74.0729417,
+              4.5967062
+            ],
+            [
+              -74.0732188,
+              4.5968778
+            ]
+          ],
+          [
+            [
+              -74.0732139,
+              4.596693
+            ],
+            [
+              -74.0731341,
+              4.5966442
+            ],
+            [
+              -74.0731969,
+              4.596542
+            ],
+            [
+              -74.0732768,
+              4.5965908
+            ],
+            [
+              -74.0732139,
+              4.596693
+            ]
+          ]
+        ]
+      },
+      "id": "relation/9452217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/9452234",
+        "addr:housenumber": "4-92",
+        "addr:postcode": "111711",
+        "addr:street": "Calle 10",
+        "building": "yes",
+        "name": "Museo Militar",
+        "opening_hours": "Tu-Su 09:00-16:00",
+        "roof:material": "roof_tiles",
+        "tourism": "museum",
+        "type": "multipolygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.0740675,
+              4.5962722
+            ],
+            [
+              -74.0738394,
+              4.5961309
+            ],
+            [
+              -74.0737029,
+              4.5963499
+            ],
+            [
+              -74.0736652,
+              4.5964104
+            ],
+            [
+              -74.0738933,
+              4.5965517
+            ],
+            [
+              -74.0740675,
+              4.5962722
+            ]
+          ],
+          [
+            [
+              -74.0739411,
+              4.5963169
+            ],
+            [
+              -74.0738669,
+              4.5964404
+            ],
+            [
+              -74.0737734,
+              4.5963846
+            ],
+            [
+              -74.0738476,
+              4.5962611
+            ],
+            [
+              -74.0739411,
+              4.5963169
+            ]
+          ]
+        ]
+      },
+      "id": "relation/9452234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/9881529",
+        "building": "yes",
+        "name": "Museo Arqueológico",
+        "tourism": "museum",
+        "type": "multipolygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.0760126,
+              4.5950092
+            ],
+            [
+              -74.07628,
+              4.5951564
+            ],
+            [
+              -74.0763213,
+              4.5950812
+            ],
+            [
+              -74.0764258,
+              4.5948929
+            ],
+            [
+              -74.0761568,
+              4.5947489
+            ],
+            [
+              -74.0760126,
+              4.5950092
+            ]
+          ],
+          [
+            [
+              -74.0763098,
+              4.5949184
+            ],
+            [
+              -74.0762429,
+              4.5950382
+            ],
+            [
+              -74.076169,
+              4.5949973
+            ],
+            [
+              -74.0762359,
+              4.5948774
+            ],
+            [
+              -74.0763098,
+              4.5949184
+            ]
+          ]
+        ]
+      },
+      "id": "relation/9881529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/10413761",
+        "building": "yes",
+        "name": "Casa de Poesia Silva",
+        "tourism": "museum",
+        "type": "multipolygon",
+        "wheelchair": "no",
+        "wikidata": "Q5754984"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.0706329,
+              4.5988439
+            ],
+            [
+              -74.0707686,
+              4.5986318
+            ],
+            [
+              -74.0707556,
+              4.5986236
+            ],
+            [
+              -74.0708277,
+              4.5985109
+            ],
+            [
+              -74.0707942,
+              4.5984895
+            ],
+            [
+              -74.0707657,
+              4.5985339
+            ],
+            [
+              -74.0706316,
+              4.5984487
+            ],
+            [
+              -74.0706074,
+              4.5984865
+            ],
+            [
+              -74.0704551,
+              4.5987245
+            ],
+            [
+              -74.0704451,
+              4.5987401
+            ],
+            [
+              -74.0705527,
+              4.5988085
+            ],
+            [
+              -74.0705598,
+              4.5987974
+            ],
+            [
+              -74.0706329,
+              4.5988439
+            ]
+          ],
+          [
+            [
+              -74.0706718,
+              4.5985611
+            ],
+            [
+              -74.0706171,
+              4.5985264
+            ],
+            [
+              -74.0706342,
+              4.5984997
+            ],
+            [
+              -74.0706889,
+              4.5985344
+            ],
+            [
+              -74.0706718,
+              4.5985611
+            ]
+          ],
+          [
+            [
+              -74.0706544,
+              4.5986574
+            ],
+            [
+              -74.0706771,
+              4.5986719
+            ],
+            [
+              -74.0706342,
+              4.5987389
+            ],
+            [
+              -74.0706115,
+              4.5987245
+            ],
+            [
+              -74.0706544,
+              4.5986574
+            ]
+          ],
+          [
+            [
+              -74.0705726,
+              4.5986467
+            ],
+            [
+              -74.0706021,
+              4.5986655
+            ],
+            [
+              -74.0705739,
+              4.5987095
+            ],
+            [
+              -74.0705444,
+              4.5986908
+            ],
+            [
+              -74.0705726,
+              4.5986467
+            ]
+          ]
+        ]
+      },
+      "id": "relation/10413761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/24510191",
+        "building": "yes",
+        "name": "Museo Francisco José de Caldas",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.0788567,
+              4.5948186
+            ],
+            [
+              -74.0789279,
+              4.594702
+            ],
+            [
+              -74.0787114,
+              4.5945707
+            ],
+            [
+              -74.0786403,
+              4.5946873
+            ],
+            [
+              -74.0788567,
+              4.5948186
+            ]
+          ]
+        ]
+      },
+      "id": "way/24510191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/58868715",
+        "building": "yes",
+        "fee": "no",
+        "name": "Casa de la Moneda",
+        "tourism": "museum",
+        "wikidata": "Q3279784",
+        "wikipedia": "es:Casa de Moneda de Colombia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.0737116,
+              4.5968431
+            ],
+            [
+              -74.073534,
+              4.5967331
+            ],
+            [
+              -74.0734905,
+              4.5968028
+            ],
+            [
+              -74.0735833,
+              4.5968603
+            ],
+            [
+              -74.0735279,
+              4.5969493
+            ],
+            [
+              -74.0734056,
+              4.5968735
+            ],
+            [
+              -74.0734475,
+              4.5968063
+            ],
+            [
+              -74.0733622,
+              4.5967535
+            ],
+            [
+              -74.0733339,
+              4.5967988
+            ],
+            [
+              -74.0732864,
+              4.5967694
+            ],
+            [
+              -74.0732188,
+              4.5968778
+            ],
+            [
+              -74.0735587,
+              4.5970884
+            ],
+            [
+              -74.0737116,
+              4.5968431
+            ]
+          ]
+        ]
+      },
+      "id": "way/58868715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/58868730",
+        "building": "yes",
+        "name": "Museo Casa 20 de Julio",
+        "tourism": "museum",
+        "wheelchair": "no",
+        "wikidata": "Q6034366",
+        "wikipedia": "es:Museo del 20 de julio"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.0750955,
+              4.5981654
+            ],
+            [
+              -74.0750558,
+              4.5982308
+            ],
+            [
+              -74.0750277,
+              4.5982139
+            ],
+            [
+              -74.0749493,
+              4.5983431
+            ],
+            [
+              -74.0749801,
+              4.5983617
+            ],
+            [
+              -74.0749541,
+              4.5984046
+            ],
+            [
+              -74.0750077,
+              4.5984369
+            ],
+            [
+              -74.0751176,
+              4.5985031
+            ],
+            [
+              -74.0751613,
+              4.5984311
+            ],
+            [
+              -74.0750551,
+              4.5983671
+            ],
+            [
+              -74.0750909,
+              4.5983082
+            ],
+            [
+              -74.0751947,
+              4.5983707
+            ],
+            [
+              -74.0752593,
+              4.5982641
+            ],
+            [
+              -74.0750955,
+              4.5981654
+            ]
+          ]
+        ]
+      },
+      "id": "way/58868730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/699486761",
+        "building": "yes",
+        "fee": "no",
+        "name": "Museo de Arte del Banco de la República",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.0730758,
+              4.5964911
+            ],
+            [
+              -74.073135,
+              4.5963961
+            ],
+            [
+              -74.0729691,
+              4.5962933
+            ],
+            [
+              -74.0729099,
+              4.5963884
+            ],
+            [
+              -74.0730758,
+              4.5964911
+            ]
+          ]
+        ]
+      },
+      "id": "way/699486761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266045580",
+        "name": "Museo Iglesia Santa Clara",
+        "tourism": "museum",
+        "wheelchair": "limited",
+        "wikidata": "Q5911533"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0774643,
+          4.5968372
+        ]
+      },
+      "id": "node/266045580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/333749813",
+        "name": "Museo Histórico Policia",
+        "opening_hours": "Tu-Su 08:00-17:00",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.078472,
+          4.5976953
+        ]
+      },
+      "id": "node/333749813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/731644658",
+        "name": "Museo de Bogotá",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa-Su 10:00-17:00",
+        "tourism": "museum",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0728575,
+          4.5962128
+        ]
+      },
+      "id": "node/731644658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/733298563",
+        "addr:city": "Bogotá D.C.",
+        "addr:street": "Calle 10 # 6 - 26",
+        "email": "res.museotrajes@uamerica.edu.co",
+        "name": "Museo de Trajes",
+        "opening_hours": "Mo-Sa 09:00-16:00",
+        "operator": "Universidad de América",
+        "operator:type": "private",
+        "phone": "(1) 2826531",
+        "start_date": "1972",
+        "tourism": "museum",
+        "website": "https://museodetrajes.com.co/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0751848,
+          4.597038
+        ]
+      },
+      "id": "node/733298563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/733299423",
+        "name": "Casa Manuelita Saenz",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0750749,
+          4.5970452
+        ]
+      },
+      "id": "node/733299423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/735987665",
+        "name": "Museo de Desarrollo Urbano",
+        "tourism": "museum",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.077599,
+          4.5978104
+        ]
+      },
+      "id": "node/735987665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3638090405",
+        "museum": "archaeological;ceramics;history",
+        "name": "Museo del Oro",
+        "name:en": "Gold Museum",
+        "name:fr": "Le musée de l'or",
+        "name:ko": "황금박물관",
+        "opening_hours": "Tu-Sa 09:00-18:00; Su 10:00-16:00",
+        "toilets": "yes",
+        "tourism": "museum",
+        "wheelchair": "yes",
+        "wikidata": "Q1109031",
+        "wikipedia": "es:Museo del Oro",
+        "wikipedia:en": "Gold Museum, Bogotá"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0718526,
+          4.6018403
+        ]
+      },
+      "id": "node/3638090405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4117023379",
+        "addr:housenumber": "3-61",
+        "addr:street": "Calle 10",
+        "contact:instagram": "patrimoniobta",
+        "name": "Museo de Bogotá",
+        "name:es": "Museo de Bogotá - casa de siete balcones",
+        "opening_hours": "Tu-Fr 09:00-17:00; Sa-Su 10:00-17:00",
+        "phone": "+57 601 2820488",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0728977,
+          4.5953781
+        ]
+      },
+      "id": "node/4117023379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4700094089",
+        "addr:housenumber": "6-66 piso 23",
+        "addr:street": "Calle 16",
+        "name": "Museo de la esmeralda",
+        "name:es": "Museo de la esmeralda",
+        "name:fr": "Musée de l'émeraude",
+        "opening_hours": "Mo-Sa 09:30-18:00",
+        "phone": "+5714827890",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0724189,
+          4.6024902
+        ]
+      },
+      "id": "node/4700094089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5503515821",
+        "name": "La Bendita Chicheria",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0693285,
+          4.5973831
+        ]
+      },
+      "id": "node/5503515821"
+    }
+  ]
+}
