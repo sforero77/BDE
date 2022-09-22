@@ -25,7 +25,7 @@ for feature in gj['features']:
 #for feature in gj['features']:
 #    cur.execute("INSERT INTO museum (name, geom) VALUES (%s, ST_GeomFromGeoJSON(%s))", (feature['properties']['name'], json.dumps(feature['geometry'])))
 conn.commit()       
-
+#
 cur.close()
 conn.close()
 
