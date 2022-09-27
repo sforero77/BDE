@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-09-21T19:54:01Z",
+  "timestamp": "2022-09-26T23:26:05Z",
   "features": [
     {
       "type": "Feature",
@@ -699,6 +699,111 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/425353574",
+        "building": "yes",
+        "level": "0",
+        "name": "Museo de Artes Visuales",
+        "name:fr": "Musée des arts visuels",
+        "operator": "Universidad Jorge Tadeo Lozano",
+        "tourism": "museum",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.0671934,
+              4.6060935
+            ],
+            [
+              -74.0671285,
+              4.6060491
+            ],
+            [
+              -74.0670448,
+              4.6061705
+            ],
+            [
+              -74.0671096,
+              4.6062149
+            ],
+            [
+              -74.0671934,
+              4.6060935
+            ]
+          ]
+        ]
+      },
+      "id": "way/425353574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/617655800",
+        "name": "Quinta de Bolivar",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.0622379,
+              4.6030936
+            ],
+            [
+              -74.0624632,
+              4.6031551
+            ],
+            [
+              -74.0629379,
+              4.6031444
+            ],
+            [
+              -74.0633054,
+              4.6031471
+            ],
+            [
+              -74.0633132,
+              4.6022241
+            ],
+            [
+              -74.0633134,
+              4.6021953
+            ],
+            [
+              -74.0630528,
+              4.6022243
+            ],
+            [
+              -74.062785,
+              4.6022541
+            ],
+            [
+              -74.0624551,
+              4.6024012
+            ],
+            [
+              -74.0623291,
+              4.60273
+            ],
+            [
+              -74.0622772,
+              4.6029369
+            ],
+            [
+              -74.0622379,
+              4.6030936
+            ]
+          ]
+        ]
+      },
+      "id": "way/617655800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/699486761",
         "building": "yes",
         "fee": "no",
@@ -848,6 +953,61 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/898094283",
+        "name": "SIN NOMBRE",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0675822,
+          4.605083
+        ]
+      },
+      "id": "node/898094283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/898138819",
+        "name": "SIN NOMBRE",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0698759,
+          4.6084204
+        ]
+      },
+      "id": "node/898138819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/898142228",
+        "addr:city": "Bogotá",
+        "addr:street": "Carrera 4 # 22-61",
+        "description": "Creado en 1969 por la facultad de Ciencias del Mar de la Universidad de Bogotá Jorge Tadeo Lozano, el Museo del Mar exhibe los montajes museográficos con especies disecadas, esqueletos y fósiles que están organizados por secciones que ilustran temas diver",
+        "name": "Museo del mar Utadeo",
+        "note": "Ubicado en el sótano del módulo 1 de la Universidad Jorge Tadeo Lozano. ENTRADA LIBRE",
+        "operator": "Universidad Jorge Tadeo Lozano",
+        "phone": "+57 2427030 Ext: 7140",
+        "tourism": "museum",
+        "website": "https://www.utadeo.edu.co/es/espacios-fisicos/museos/museo-del-mar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0678588,
+          4.607212
+        ]
+      },
+      "id": "node/898142228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/3638090405",
         "museum": "archaeological;ceramics;history",
         "name": "Museo del Oro",
@@ -930,6 +1090,24 @@
         ]
       },
       "id": "node/5503515821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6831374155",
+        "addr:housenumber": "#13-86",
+        "addr:street": "Calle 15",
+        "name": "Comisaria De Familia Localidad Santafe",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.07846,
+          4.6052172
+        ]
+      },
+      "id": "node/6831374155"
     }
   ]
 }
